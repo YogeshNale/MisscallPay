@@ -15,6 +15,7 @@ public class AgentTestClass extends TestBase {
 	}
 
 	String classa;
+	String yogesh;
 	@Test(priority =0)
 	public void openURL() {
 		driver.get("https://www.misscallpay.com/agent.html");
